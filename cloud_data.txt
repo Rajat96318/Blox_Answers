@@ -1,0 +1,4 @@
+table1: {"id": 1, "name": "John", "age": 30}
+table1: {"id": 2, "name": "Alice", "age": 25}
+table2: {"id": 101, "address": "123 Main St", "city": "New York"}
+table2: {"id": 102, "address": "456 Oak Ave", "city": "Los Angeles"}
